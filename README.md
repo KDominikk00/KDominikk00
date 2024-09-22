@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dominik Kowalski!
 
-I'm an aspiring Software Engineer with a passion for crafting efficient and scalable applications. 
+I'm an aspiring Software Engineer with a passion for crafting efficient and scalable applications. Check out some of my favourite projects below!
 
 ## 🛠️ Technologies I'm best with:
 
