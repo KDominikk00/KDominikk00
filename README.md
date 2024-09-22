@@ -2,7 +2,8 @@
 
 I'm an aspiring Software Engineer with a passion for crafting efficient and scalable applications. Check out some of my favourite projects below!
 
-## 🛠️ Technologies I'm best with: Java, Spring Boot, JavaScript, TypeScript, HTML, CSS, ReactJS, Angular, PostgreSQL, MongoDB
+## 🛠️ Technologies I'm best with: 
+Java, Spring Boot, JavaScript, TypeScript, HTML, CSS, ReactJS, Angular, PostgreSQL, MongoDB
 
 ## 🔓 Courses I've completed
 
