@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Dominik Kowalski!
 
-<!--
-**KDominikk00/KDominikk00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Software Engineer with a passion for crafting efficient and scalable applications. 
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I'm best with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & Frameworks:**
+  - Java
+  - Spring Boot
+  - JavaScript
+  - TypeScript
+  - HTML & CSS
+  - React
+  - Angular
+
+- **Databases:**
+  - PostgreSQL
+  - MongoDB
+
+## 📫 Connect with Me
+
+Feel free to reach out to me through:
+
+- [Email](dominikkowalski331@gmail.com)
+
+Thank you for visiting my profile! Let’s connect and collaborate!
