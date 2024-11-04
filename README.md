@@ -13,6 +13,6 @@ Java, Spring Boot, JavaScript, TypeScript, HTML, CSS, ReactJS, Angular, PostgreS
 
 ## 📫 Connect with Me
 
-Feel free to reach out to me through [Email](dominikkowalski331@gmail.com)
+Feel free to reach out to me through [Email](mailto:dominikkowalski331@gmail.com)
 
 Thank you for visiting my profile! Let’s connect and collaborate!
