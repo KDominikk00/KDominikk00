@@ -10,6 +10,10 @@ Java, Spring Boot, JavaScript, TypeScript, HTML, CSS, ReactJS, Angular, PostgreS
 - [University Of Helsinki Java Programming I](https://github.com/KDominikk00/KDominikk00/blob/master/Java%20Programming%20I%20certificate.png?raw=true)
 - [University Of Helsinki Java Programming II](https://github.com/KDominikk00/KDominikk00/blob/master/Java%20Programming%20II%20certificate.png?raw=true)
 - [Complete React, Next.js & TypeScript Projects Course 2024](https://github.com/KDominikk00/KDominikk00/blob/master/Udemy%20ReactJS,%20Next.js%20&%20TypeScript%20course%20certificate.png?raw=true)
+- [CISCO Cybersecurity Essentials](https://github.com/KDominikk00/KDominikk00/blob/master/Cybersecurity%20Essentials.pdf)
+- [NDG Linux Essentials](https://github.com/KDominikk00/KDominikk00/blob/master/NDG%20Linux%20Essentials.pdf)
+- [NDG Linux Unhatched](https://github.com/KDominikk00/KDominikk00/blob/master/NDG%20Linux%20Unhatched.pdf)
+- [PCAP - Programming Essentials in Python](https://github.com/KDominikk00/KDominikk00/blob/master/Programming%20Essentials%20in%20Python%20PCAP.pdf)
 
 ## 📫 Connect with Me
 
