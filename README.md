@@ -1,9 +1,29 @@
-# 👋 Hello, I'm Dominik Kowalski!
+# Hi, I'm Dominik Kowalski!
 
-I'm an aspiring Software Engineer who likes crafting efficient and scalable applications. Check out some of my favourite projects below!
+I'm a Software Engineer currently looking for a junior position. Check out my profile!
 
-## 🛠️ Technologies I'm best with: 
-Java, Spring Boot, ReactJS, Next.js, TypeScript, Python, FastAPI, CSS, Angular, PostgreSQL, MongoDB, Supabase
+# Reach me on
+<p align="center">
+<a align="center" href="https://www.linkedin.com/in/dominik-kowalski06/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a>
+</p>
+<p align="center">
+or email: dominikkowalski331@gmail.com
+</p>
+
+
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
+</p>
 
 ## 🔓 Courses I've completed
 
@@ -15,8 +35,8 @@ Java, Spring Boot, ReactJS, Next.js, TypeScript, Python, FastAPI, CSS, Angular, 
 - [NDG Linux Unhatched](https://github.com/KDominikk00/KDominikk00/blob/master/NDG%20Linux%20Unhatched.pdf)
 - [PCAP - Programming Essentials in Python](https://github.com/KDominikk00/KDominikk00/blob/master/Programming%20Essentials%20in%20Python%20PCAP.pdf)
 
-## 📫 Connect with Me
-
-Feel free to reach out to me through [Email](mailto:dominikkowalski331@gmail.com)
-
-Thank you for visiting my profile! Let’s connect and collaborate!
+<p align="center">
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=KDominikk00&theme=dark" />
+</a>
+</p>
