@@ -3,12 +3,9 @@
 I'm a Software Engineer currently looking for new opportunities. Check out my profile!
 
 # Reach me on
-<p align="center">
 <a align="center" href="https://www.linkedin.com/in/dominik-kowalski06/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a>
-</p>
-<p align="center">
-or email: dominikkowalski331@gmail.com
-</p>
+<p>or email: dominikkowalski331@gmail.com</p>
+
 
 
 ## 🛠️ Tech Stack
