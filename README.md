@@ -1,6 +1,6 @@
 # Hi, I'm Dominik Kowalski!
 
-I'm a Software Engineer currently looking for a junior position. Check out my profile!
+I'm a Software Engineer currently looking for new opportunities. Check out my profile!
 
 # Reach me on
 <p align="center">
