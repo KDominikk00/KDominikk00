@@ -9,18 +9,7 @@ I'm a Software Engineer currently looking for new opportunities. Check out my pr
 
 
 ## 🛠️ Tech Stack
-<p align="center">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
-</p>
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
 
 ## 🔓 Courses I've completed
 
