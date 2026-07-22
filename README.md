@@ -1,6 +1,6 @@
 # Hi, I'm Dominik Kowalski!
 
-I'm a CS student based in Reykjavik, Iceland looking for remote, hybrid or on-site opportunities worldwide. Check out my profile!
+I'm a CS student looking for remote, hybrid or on-site opportunities worldwide. Check out my profile!
 
 # Reach me on
 <a align="center" href="https://www.linkedin.com/in/dominik-kowalski06/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a>
