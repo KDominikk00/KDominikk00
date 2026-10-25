@@ -23,5 +23,4 @@ CS student @ WSKZ | Software Engineering | Java / Python / TypeScript
 #
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=KDominikk00&theme=shadow_blue&hide_border=true" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KDominikk00&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
